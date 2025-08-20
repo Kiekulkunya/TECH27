@@ -2,7 +2,8 @@ TECH 27 :  Final Project Submission and all mertiral
 
 1. Colab Code Script Print in PDF file
    
-[TECH27_TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf](https://github.com/user-attachments/files/21880509/TECH27_TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf)
+[TECH27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf](https://github.com/user-attachments/files/21890082/TECH27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf)
+
 
 2. Notion Comprehensive Presentation for Final Project with Detailed explanation, Display results with well-structured project outlines
 
