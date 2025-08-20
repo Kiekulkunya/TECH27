@@ -1,4 +1,39 @@
+TECH 27 :  Final Project Submission and all mertiral : 
+
+1. Colab Code Script Print in PDF file
+   
 [TECH27_TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf](https://github.com/user-attachments/files/21880509/TECH27_TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf)
+
+2. Notion Comprehensive Presentation for Final Project with Detailed explanation, Display results with well-structured project outlines
+   
+[TECH27_Notion_Comprehensiv_Presentation_by Kiris.pdf](https://github.com/user-attachments/files/21888434/TECH27_Notion_Comprehensiv_Presentation_by.Kiris.pdf)
+
+
+
+4. Notion Link
+(https://furry-pizza-7fa.notion.site/TECH-27-Final-Project-Submission-Advanced-ML-for-Dog-Breed-Categorization-with-Multi-Model-Deploy-250111afefc1808192f0c44e0678619e)
+
+3. Colab Code in .jpnb file
+
+[TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.ipynb](https://github.com/user-attachments/files/21880445/TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.ipynb)
+
+4. AI-powered Image Resolition Detection in Html
+
+https://codepen.io/KULLALIN-88/full/PwPOpXB
+
+5. Final Project Dog Breed Mind Map
+
+ https://concise-mind-canvas-91.lovable.app/   
+
+6. Github Cobal Code
+![P3 4](https://github.com/user-attachments/assets/6aecf0cd-b6d6-4cb4-be0b-b056c9da30e8)
+![P3 3](https://github.com/user-attachments/assets/ed6b4434-4ab6-4a02-8b5d-815f9ca1669f)
+![P3 2](https://github.com/user-attachments/assets/3bc7fde7-98c2-4afd-b0a4-b8deaef66ae8)
+![P3 1](https://github.com/user-attachments/assets/956f6041-a06d-4f8f-8111-a0f37ac2649b)
+
+7. All Images for project submission:
+   
+   
 Final Project <img width="1864" height="886" alt="S6 13" src="https://github.com/user-attachments/assets/d41f1307-c928-421e-93ce-55ba521fb207" />
 <img width="1361" height="803" alt="S6 12" src="https://github.com/user-attachments/assets/a782553f-d2e9-4860-9707-1106e33dd4da" />
 <img width="1204" height="926" alt="S6 11" src="https://github.com/user-attachments/assets/823a353c-622e-4e7b-bf75-8ce4eb86dedf" />
@@ -29,8 +64,6 @@ Final Project <img width="1864" height="886" alt="S6 13" src="https://github.com
 <img width="1387" height="786" alt="S4 6 2" src="https://github.com/user-attachments/assets/e613a64e-5272-4045-a006-8e3e161cdf9f" />
 <img width="1387" height="986" alt="S4 6 1" src="https://github.com/user-attachments/assets/1010106f-fd66-418e-ba4e-54c81c28dc3a" />
 <img width="1500" height="986" alt="S4 5" src="https://github.com/user-attachments/assets/bf70a11b-c11c-4f1f-a3c6-ce50848e6bc2" />
-[TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.ipynb](https://github.com/user-attachments/files/21880445/TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.ipynb)
-
 <img width="1187" height="587" alt="S4 4" src="https://github.com/user-attachments/assets/42034dac-21e1-4a07-b83a-492cd6da3cc5" />
 <img width="1486" height="487" alt="S4 3" src="https://github.com/user-attachments/assets/3c1e26f7-59af-4834-a632-6b55b376132c" />
 <img width="1187" height="487" alt="S4 2" src="https://github.com/user-attachments/assets/4f60f2de-39bb-4690-a40d-a4223444d6dc" />
@@ -43,12 +76,6 @@ Final Project <img width="1864" height="886" alt="S6 13" src="https://github.com
 <img width="1187" height="487" alt="S3 2" src="https://github.com/user-attachments/assets/1d3fabb5-e3f7-487e-9dd6-aed400a7c1b0" />
 <img width="987" height="787" alt="S3 1" src="https://github.com/user-attachments/assets/f6a446b8-3600-448f-9f25-1f9edc951901" />
 <img width="1500" height="986" alt="P3" src="https://github.com/user-attachments/assets/3235bada-314c-45c1-9e7b-09dd5dcf433e" />
-
-![P3 4](https://github.com/user-attachments/assets/6aecf0cd-b6d6-4cb4-be0b-b056c9da30e8)
-
-![P3 3](https://github.com/user-attachments/assets/ed6b4434-4ab6-4a02-8b5d-815f9ca1669f)
-![P3 2](https://github.com/user-attachments/assets/3bc7fde7-98c2-4afd-b0a4-b8deaef66ae8)
-![P3 1](https://github.com/user-attachments/assets/956f6041-a06d-4f8f-8111-a0f37ac2649b)
 <img width="1897" height="397" alt="P2" src="https://github.com/user-attachments/assets/d36b39ad-ecb5-4d4a-b0f9-85a9812a7d45" />
 <img width="1906" height="397" alt="P1" src="https://github.com/user-attachments/assets/f838d12d-d468-4e01-9f82-f8a0970f23d5" />
 <img width="1536" height="1024" alt="Block Diagram basic" src="https://github.com/user-attachments/assets/93dca31c-9e75-4941-a474-a01c339f569e" />
