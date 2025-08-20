@@ -1,4 +1,4 @@
-TECH 27 :  Final Project Submission and all mertiral : 
+TECH 27 :  Final Project Submission and all mertiral
 
 1. Colab Code Script Print in PDF file
    
@@ -6,31 +6,32 @@ TECH 27 :  Final Project Submission and all mertiral :
 
 2. Notion Comprehensive Presentation for Final Project with Detailed explanation, Display results with well-structured project outlines
 
-[TECH27_Notion_Comprehensiv_Presentation_by Kiris.pdf](https://github.com/user-attachments/files/21889739/TECH27_Notion_Comprehensiv_Presentation_by.Kiris.pdf)
+[TECH27_Notion_Comprehensiv_Presentation_by Kiris.pdf](https://github.com/user-attachments/files/21889858/TECH27_Notion_Comprehensiv_Presentation_by.Kiris.pdf)
 
 
 3. Notion Link
+   
 https://furry-pizza-7fa.notion.site/TECH-27-Final-Project-Submission-Advanced-ML-for-Dog-Breed-Categorization-with-Multi-Model-Deploy-250111afefc1808192f0c44e0678619e
 
 4. Colab Code in .jpnb file
 
 [TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.ipynb](https://github.com/user-attachments/files/21880445/TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.ipynb)
 
-4. AI-powered Image Resolition Detection in Html
+5. AI-powered Image Resolition Detection in Html
 
 https://codepen.io/KULLALIN-88/full/PwPOpXB
 
-5. Final Project Dog Breed Mind Map
+6. Final Project Dog Breed Mind Map
 
  https://concise-mind-canvas-91.lovable.app/   
 
-6. Github Cobal Code
+7. Github Cobal Code
 ![P3 4](https://github.com/user-attachments/assets/6aecf0cd-b6d6-4cb4-be0b-b056c9da30e8)
 ![P3 3](https://github.com/user-attachments/assets/ed6b4434-4ab6-4a02-8b5d-815f9ca1669f)
 ![P3 2](https://github.com/user-attachments/assets/3bc7fde7-98c2-4afd-b0a4-b8deaef66ae8)
 ![P3 1](https://github.com/user-attachments/assets/956f6041-a06d-4f8f-8111-a0f37ac2649b)
 
-7. All Images for project submission:
+8. All Images for project submission:
    
    
 Final Project <img width="1864" height="886" alt="S6 13" src="https://github.com/user-attachments/assets/d41f1307-c928-421e-93ce-55ba521fb207" />
