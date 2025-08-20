@@ -1,3 +1,4 @@
+[TECH27_TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf](https://github.com/user-attachments/files/21880509/TECH27_TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf)
 Final Project <img width="1864" height="886" alt="S6 13" src="https://github.com/user-attachments/assets/d41f1307-c928-421e-93ce-55ba521fb207" />
 <img width="1361" height="803" alt="S6 12" src="https://github.com/user-attachments/assets/a782553f-d2e9-4860-9707-1106e33dd4da" />
 <img width="1204" height="926" alt="S6 11" src="https://github.com/user-attachments/assets/823a353c-622e-4e7b-bf75-8ce4eb86dedf" />
