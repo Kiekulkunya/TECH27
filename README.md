@@ -5,15 +5,14 @@ TECH 27 :  Final Project Submission and all mertiral :
 [TECH27_TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf](https://github.com/user-attachments/files/21880509/TECH27_TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.pdf)
 
 2. Notion Comprehensive Presentation for Final Project with Detailed explanation, Display results with well-structured project outlines
-   
-[TECH27_Notion_Comprehensiv_Presentation_by Kiris.pdf](https://github.com/user-attachments/files/21888434/TECH27_Notion_Comprehensiv_Presentation_by.Kiris.pdf)
+
+[TECH27_Notion_Comprehensiv_Presentation_by Kiris.pdf](https://github.com/user-attachments/files/21889739/TECH27_Notion_Comprehensiv_Presentation_by.Kiris.pdf)
 
 
+3. Notion Link
+https://furry-pizza-7fa.notion.site/TECH-27-Final-Project-Submission-Advanced-ML-for-Dog-Breed-Categorization-with-Multi-Model-Deploy-250111afefc1808192f0c44e0678619e
 
-4. Notion Link
-(https://furry-pizza-7fa.notion.site/TECH-27-Final-Project-Submission-Advanced-ML-for-Dog-Breed-Categorization-with-Multi-Model-Deploy-250111afefc1808192f0c44e0678619e)
-
-3. Colab Code in .jpnb file
+4. Colab Code in .jpnb file
 
 [TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.ipynb](https://github.com/user-attachments/files/21880445/TECH_27_ML_Dog_Breed_Final_Project_Minimal_1200_new.ipynb)
 
